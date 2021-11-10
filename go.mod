@@ -1,3 +1,3 @@
-module github/carozhu/calculator
+module github.com/carozhu/calculator
 
 go 1.17
